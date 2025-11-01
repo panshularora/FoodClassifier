@@ -23,13 +23,12 @@ Built using **PyTorch**, **FastAPI**, and **HTML/CSS frontend**.
 ---
 
 ## 🛠️ Project Structure
-food-classifier/
-│
-├── app.py # FastAPI backend
-├── model/ # Trained model files
-├── static/ # Frontend (HTML, CSS, JS)
-├── requirements.txt # Dependencies
-└── README.md 
+**food-classifier**
+**app.py # FastAPI backend**
+**model/ # Trained model files**
+**static/ # Frontend (HTML, CSS, JS)**
+**requirements.txt # Dependencies**
+**README.md**
 
 ---
 
